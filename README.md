@@ -6,14 +6,14 @@ Built as a personal Notion guide to stay organized and productive.
 
 ## ✨ Features
 
-- 📌 Add tasks with deadlines  
-- ✏️ Update or delete existing tasks  
-- 🗂 View daily, weekly, or project-based tasks  
-- 🧠 Create notes instantly  
-- ⏰ Set reminders  
-- 📅 Get schedule summaries  
-- 🤝 Friendly conversational responses  
-- 💬 Built with Dialogflow (No-Code)
+-  Add tasks with deadlines  
+-  Update or delete existing tasks  
+-  View daily, weekly, or project-based tasks  
+-  Create notes instantly  
+-  Set reminders  
+-  Get schedule summaries  
+-  Friendly conversational responses  
+-  Built with Dialogflow (No-Code)
 
 ---
 
